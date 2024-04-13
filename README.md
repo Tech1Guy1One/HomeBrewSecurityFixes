@@ -2,7 +2,7 @@
                                                                                                 !!!WARNING!!!
                             The GenericTechSupport Channel takes no responsibility for any losses incurred due to improper configuration or changes made by you the user. 
                             Usage of any scripting or customizations shown in our videos are in a very controlled, very vanilla configuration. All scripting, configurations, or settings are 100% free to use by anyone. 
-                            The GenericTechSupport channel was created for entertainment purposes only. Viewers should approach any configuration changes with cution and ensure proper backups are complete before testing. 
+                            The GenericTechSupport channel was created for entertainment purposes only. Viewers should approach any configuration changes with caution and ensure proper backups are complete before testing. 
 
 
 This is TGO, I run a youtube channel here: 
