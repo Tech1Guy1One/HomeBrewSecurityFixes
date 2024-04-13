@@ -1,0 +1,1 @@
+reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\PushNotifications" /f /v ToastEnabled /t Reg_DWORD /d 0

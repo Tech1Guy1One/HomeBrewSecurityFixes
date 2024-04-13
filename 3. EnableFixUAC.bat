@@ -1,0 +1,2 @@
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /f /v ConsentPromptBehaviorAdmin /t Reg_DWORD /d 5
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /f /v EnableLUA /t Reg_DWORD /d 1
