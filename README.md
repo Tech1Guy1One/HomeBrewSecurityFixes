@@ -5,6 +5,18 @@
                             The GenericTechSupport channel was created for entertainment purposes only. Viewers should approach any configuration changes with caution and ensure proper backups are complete before testing. 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPECIAL NOTE: 
+THESE SCRIPTS ARE USED IN BETA TESTING, ALPHA TESTING, and SECURITY TESTING. 
+THESE ARE NOT DESIGNED TO BE USED ON A DAILY DRIVER OS. 
+USING THESE SCRIPTS ON A DAILY DRIVER ARE A HIGH RISK FOR BREAKING FUNCTIONALITY. 
+THESE ARE BASELINES THAT CAN BE USED FREELY, and AT NO POINT SHOULD YOU SUBSTITUTE A FULL BUILD GPO/AD and DELEGATED ACCESS FOR WHAT IS IN THESE SCRIPT CONFIGURATIONS. 
+
+THAT ALL SAID, 
+FEEL FREE TO USE THESE AS YOU WISH.. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This is TGO, I run a youtube channel here: 
 youtube.com@GenericTechSupport
 
