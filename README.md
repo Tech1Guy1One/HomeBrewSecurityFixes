@@ -21,7 +21,7 @@ This is TGO, I run a youtube channel here:
 youtube.com@GenericTechSupport
 
 In My Youtube channel we are constantly working toward securing systems that are home brew configuration systems. 
-Out projects run from our Windows 9X systems all the way through our configurations for Windows 11. 
+Our projects run from our Windows 9X systems all the way through our configurations for Windows 11. 
 
 This repository is new, it will contain scripts discussed on our youtube channel. 
 Videos will be posted weekly and contain links to this repository where scripts can be downloaded to help fix the OS issues found in our videos. 
